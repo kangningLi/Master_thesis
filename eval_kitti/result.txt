@@ -1,0 +1,39 @@
+car easy detection 0.9087100909090909
+car moderate detection 0.9030670000000001
+car hard detection 0.8762928181818183
+----------------
+car easy detection_ground 0.8775376363636365
+car moderate detection_ground 0.8247953636363636
+car hard detection_ground 0.7469342727272728
+----------------
+car easy detection_3d 0.8401227272727273
+car moderate detection_3d 0.7097676363636364
+car hard detection_3d 0.6339862727272727
+----------------
+=================
+pedestrian easy detection 0.845558909090909
+pedestrian moderate detection 0.7638969090909092
+pedestrian hard detection 0.7243864545454546
+----------------
+pedestrian easy detection_ground 0.7088844545454545
+pedestrian moderate detection_ground 0.6169643636363636
+pedestrian hard detection_ground 0.5402291818181818
+----------------
+pedestrian easy detection_3d 0.6639663636363636
+pedestrian moderate detection_3d 0.5714038181818183
+pedestrian hard detection_3d 0.5021957272727272
+----------------
+=================
+cyclist easy detection 0.8899447272727272
+cyclist moderate detection 0.7270366363636364
+cyclist hard detection 0.7061092727272729
+----------------
+cyclist easy detection_ground 0.7781184545454544
+cyclist moderate detection_ground 0.5764800909090909
+cyclist hard detection_ground 0.5356426363636363
+----------------
+cyclist easy detection_3d 0.703409090909091
+cyclist moderate detection_3d 0.5167933636363636
+cyclist hard detection_3d 0.48095281818181823
+----------------
+=================
